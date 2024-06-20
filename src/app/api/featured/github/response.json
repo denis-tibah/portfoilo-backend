@@ -58,7 +58,7 @@
   {
     "title": "Slashboard desktop",
     "description": "A simple and convenient dashboard to monitor the activity and performance of your home servers.",
-    "source": "https://github.com/BSoDium/Slashboard-desktop",
+    "source": "https://github.com/denis-tibah/Slashboard",
     "demo": "",
     "language": "TypeScript",
     "platform": "github",
@@ -84,11 +84,11 @@
     }
   },
   {
-    "title": "The PyOS Project",
-    "description": "An orbital mechanics simulator, entirely coded in Python, which uses the panda3D engine. The acronym PyOS stands for \"Python orbit simulator\".",
-    "source": "https://github.com/BSoDium/The-PyOS-Project",
-    "demo": "",
-    "language": "Python",
+    "title": "The Truckpedia Delivery Service Manager",
+    "description": "An Truck delivery service manager for both customer and drivers",
+    "source": "https://github.com/denis-tibah/TruckDelivery-Manager",
+    "demo": "https://ezpapel.com",
+    "language": "Vue",
     "platform": "github",
     "createdAt": "2019-03-04T13:56:43Z",
     "updatedAt": "2024-05-28T02:59:03Z",
