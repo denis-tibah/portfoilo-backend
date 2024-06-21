@@ -1,8 +1,8 @@
 import { NextRequest, NextResponse } from "next/server";
 
-const allowedOrigins = ["https://www.bsodium.fr", "https://bsodium.fr"];
+const allowedOrigins = ["https://www.denis-tibah.vercel.app/", "https://denis-tibah.vercel.app/"];
 const isDeploymentOrigin = (origin: string) =>
-  origin.startsWith("https://bsodium") && origin.endsWith(".vercel.app");
+  origin.startsWith("https://denis-tibah") && origin.endsWith(".vercel.app");
 
 const corsOptions = {
   "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE, OPTIONS",

@@ -1,6 +1,6 @@
-# api.bsodium.fr
+# denis-tibah-backend.vercel.app
 
-This repository contains the source code of the API for my eportfolio/landing page, hosted at [bsodium.fr](https://bsodium.fr) on Vercel.
+This repository contains the source code of the API for my portfolio/landing page, hosted at [denis-tibah](https://denis-tibah.vercel.app/) on Vercel.
 
 ## Usage
 

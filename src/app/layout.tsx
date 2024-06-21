@@ -6,8 +6,8 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "BSoDium API",
-  description: "The API for the landing page at bsodium.fr",
+  title: "Portfoilo backend API",
+  description: "The API for the landing page at denis-tibah.vercel.app",
 };
 
 export default function RootLayout({
